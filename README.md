@@ -2,6 +2,7 @@
 
 Cheasheets for various computer tasks.
 
+- [Git](git.md)
 - [Vim](vim.md)
 
 ## Other cheatsheets
