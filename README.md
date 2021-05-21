@@ -2,6 +2,7 @@
 
 Cheasheets for various computer tasks.
 
+- [GDAL](gdal.md)
 - [Git](git.md)
 - [Vim](vim.md)
 
