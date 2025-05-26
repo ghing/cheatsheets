@@ -5,6 +5,7 @@ Cheasheets for various computer tasks.
 - [GDAL](gdal.md)
 - [Git](git.md)
 - [Shell](shell.md)
+- [Sway](sway.md)
 - [Vim](vim.md)
 
 ## Other cheatsheets
