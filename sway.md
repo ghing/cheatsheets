@@ -6,6 +6,28 @@ The key-bindings are very customizable and defined in the config file in `~/.con
 
 Use `bluetoothctl` or `blueman-manager`.
 
+To list available devices:
+
+```
+bluetoothctl devices
+```
+
+To pair with a device:
+
+```
+bluetoothctl pair 88:08:94:02:7C:12
+```
+
+where you should replace `88:08:94:02:7C:12` with the address that appears in the list displayed by `bluetoothctl devices`.
+
+Once you've paired with a device once, you can connect to it with:
+
+```
+bluetoothctl connect 88:08:94:02:7C:12
+```
+
+where you should replace `88:08:94:02:7C:12` with the address that appears in the list displayed by `bluetoothctl devices`.
+
 ## WiFi 
 
 Use `nmtui`.
